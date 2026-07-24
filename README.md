@@ -37,7 +37,21 @@ python password_generator.py
 
 ## 📸 Screenshots
 
-*(Screenshots will be added here.)*
+### Main Screen
+
+![Main Screen](Main%20Screen.png)
+
+### Invalid Input
+
+![Invalid Input](Invalid%20Option.png)
+
+### Password Validation
+
+![Validation](Validation.png)
+
+### Generate Again
+
+![Generate Again](Generate%20Again.png)
 
 ---
 
