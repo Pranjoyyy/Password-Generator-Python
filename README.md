@@ -14,7 +14,7 @@ A simple and beginner-friendly Password Generator built using Python.
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - Python 3
 - random module
@@ -22,7 +22,7 @@ A simple and beginner-friendly Password Generator built using Python.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Install Python 3.
 2. Download or clone this repository.
@@ -35,7 +35,7 @@ python password_generator.py
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Main Screen
 
@@ -55,7 +55,7 @@ python password_generator.py
 
 ---
 
-## 📖 What I Learned
+##  What I Learned
 
 While building this project, I practiced:
 
@@ -68,8 +68,8 @@ While building this project, I practiced:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Pranjoy Ghose**
 
-First Python portfolio project 🚀
+First Python portfolio project
